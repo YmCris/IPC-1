@@ -1,6 +1,9 @@
 package com.ymcris.ipc1.exercises.Casteo;
 
-
+/**
+ *
+ * @author crist
+ */
 public class Conversiones {
     /*public static void main(String[] args) {
         /*double num= 1.67;

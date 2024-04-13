@@ -392,11 +392,11 @@ private class BotonActionListener implements ActionListener {
      * 
      * @param args 
      */
-    public static void main(String[] args) {
-        NewClass pantalla = new NewClass();
+   /*public static void main(String[] args) {
+        Pantalla pantalla = new Pantalla();
         pantalla.setVisible(true);
         pantalla.setLocationRelativeTo(null);
-    }
+    }*/
 
     private void txt1ActionPerformed(java.awt.event.ActionEvent evt) {                                     
         initComponents();

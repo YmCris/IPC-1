@@ -1,7 +1,9 @@
 package com.ymcris.ipc1.exercises.Constructores;
 
-
-
+/**
+ *
+ * @author crist
+ */
 public class Main {
 /*    public static void main(String[] args) {
         Alumno alumno2= new Alumno(5, "Luisana","De Paula");

@@ -1,18 +1,28 @@
 package com.ymcris.ipc1.exercises.ClasesAbstractas;
 
-
-
+/**
+ *
+ * @author crist
+ */
 public class Círculo extends Figura{
     
     private double radio;
 
+    /**
+     *
+     * @param radio
+     * @param x
+     * @param y
+     */
     public Círculo(double radio, double x, double y) {
         super(x, y);
         this.radio = radio;
     }
     
-    
-    
+    /**
+     *
+     * @return
+     */
     @Override
     public double calcularArea() {
         double pi = 3.14;

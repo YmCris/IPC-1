@@ -1,32 +1,61 @@
 package com.ymcris.ipc1.exercises.BuenasPracticasDeProgramación;
+
 import java.util.Scanner;
-/**BuenasPracticasDeProgramación: Clase encargada de mostrar las buenas prácticas de programación
+
+/**
+ * BuenasPracticasDeProgramación: Clase encargada de mostrar las buenas
+ * prácticas de programación
  *
  * @author crist
  * @version 21.0.2
  */
 public class BuenasPracticasDeProgramación {
-    
+
     private final int AÑO_ACTUAL = 2024;
     private int edad;
     private String nombre;
-    
-    public void main(String[] args) {
-        mostrarNombreYEdad();
+
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+        BuenasPracticasDeProgramación programa = new BuenasPracticasDeProgramación();
+        programa.mostrarNombreYEdad();
     }
-    
-    public void ingresarNombreYEdad(){
+
+    /**
+     *
+     */
+    public void ingresarNombreYEdad() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingresa tu edad: ");
         edad = scanner.nextInt();
+        scanner.nextLine();
         System.out.println("Ingresa tu nombre: ");
         nombre = scanner.nextLine();
     }
-    
-    public void mostrarNombreYEdad(){
+
+    /**
+     *
+     */
+    public void mostrarNombreYEdad() {
         ingresarNombreYEdad();
         System.out.println("Tu edad es: " + edad);
-        System.out.println("Tu edad es: " + nombre);
+        System.out.println("Tu nombre es: " + nombre);
         System.out.println("En el año: " + AÑO_ACTUAL);
+    }
+
+    /**
+     * Método encargado de <b>recibir</b> dos números y sumarlos
+     *
+     * @param numeroUno - Valor del primer número a sumar
+     * @param numeroDos - Valor del segundo número a sumar
+     * @return int - Valor entero de sumar dos números
+     * @see "BuenasPracticasDeProgramación"
+     */
+    public int sumarDosNumeros(int numeroUno, int numeroDos) {
+        int resultado = numeroUno + numeroDos;
+        return resultado;
     }
 }
