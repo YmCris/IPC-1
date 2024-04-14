@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/crist/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Exercises 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Exercises 1.0-SNAPSHOT API'
