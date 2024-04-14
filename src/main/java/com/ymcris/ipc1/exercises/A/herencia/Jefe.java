@@ -1,10 +1,11 @@
-package com.ymcris.ipc1.exercises.Herencia;
+package com.ymcris.ipc1.exercises.A.herencia;
 
 /**
  *
  * @author crist
  */
 public class Jefe extends Persona {
+
     int id_jefe;
     String departamento_jefe;
 
@@ -72,6 +73,5 @@ public class Jefe extends Persona {
     public void setDepartamento_jefe(String departamento_jefe) {
         this.departamento_jefe = departamento_jefe;
     }
-    
-    
+
 }

@@ -1,11 +1,11 @@
-package com.ymcris.ipc1.exercises.ClasesAbstractas;
+package com.ymcris.ipc1.exercises.d.clasesAbstractas;
 
 /**
  *
  * @author crist
  */
 public abstract class Figura {
-    
+
     /**
      *
      */
@@ -31,11 +31,11 @@ public abstract class Figura {
         this.x = x;
         this.y = y;
     }
-    
+
     /**
      *
      * @return
      */
     public abstract double calcularArea();
-    
+
 }

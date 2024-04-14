@@ -1,11 +1,11 @@
-package com.ymcris.ipc1.exercises.Herencia;
+package com.ymcris.ipc1.exercises.A.herencia;
 
 /**
  *
  * @author crist
  */
 public class Empleado extends Persona {
-    
+
     String nombre_empleado;
     int num_empleado;
 
@@ -63,6 +63,5 @@ public class Empleado extends Persona {
     public void setNum_empleado(int num_empleado) {
         this.num_empleado = num_empleado;
     }
-    
-    
+
 }

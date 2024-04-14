@@ -1,0 +1,62 @@
+@options
+@packages
+-classpath
+'C:/Users/crist/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/src/main/java;C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Exercises 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Exercises 1.0-SNAPSHOT API'
+com.ymcris.ipc1.exercise
+com.ymcris.ipc1.exercises.A.herencia
+com.ymcris.ipc1.exercises.b.polimorfismo
+com.ymcris.ipc1.exercises.c.constructores
+com.ymcris.ipc1.exercises.d.clasesAbstractas
+com.ymcris.ipc1.exercises.e.casteo
+com.ymcris.ipc1.exercises.g.archivos
+com.ymcris.ipc1.exercises.h.excepciones
+com.ymcris.ipc1.exercises.i.threads
+com.ymcris.ipc1.exercises.j.busquedayordenamieto
+com.ymcris.ipc1.exercises.k.ordenamiento.burbuja
+com.ymcris.ipc1.exercises.k.ordenamiento.inserción
+com.ymcris.ipc1.exercises.z.buenaspracticasdeprogramación
+C:\Users\crist\.m2\repository\unknown\binary\AbsoluteLayout\SNAPSHOT\AbsoluteLayout-SNAPSHOT.jar = 1712632983752
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\src\main\java = 1713026689916
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\generated-sources\annotations = 1713127653259
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\allclasses-index.html = 1713127661083
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\allpackages-index.html = 1713127661092
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\copy.svg = 1713127661225
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\element-list = 1713127660528
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\help-doc.html = 1713127661216
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\index-all.html = 1713127661156
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\index.html = 1713127661049
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\link.svg = 1713127661227
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\member-search-index.js = 1713127661100
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\module-search-index.js = 1713127661095
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\overview-summary.html = 1713127661197
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\overview-tree.html = 1713127661043
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\package-search-index.js = 1713127661096
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\script.js = 1713127661223
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search-page.js = 1713127661237
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search.html = 1713127661195
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search.js = 1713127661234
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\stylesheet.css = 1713127661221
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\tag-search-index.js = 1713127661102
+C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\type-search-index.js = 1713127661098

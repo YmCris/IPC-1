@@ -1,10 +1,8 @@
-package com.ymcris.ipc1.exercises.Archivos;
+package com.ymcris.ipc1.exercises.g.archivos;
 
 /**
  *
- * @author crist
- * {@link Conversiones}
  */
 public class Archivos {
-    
+
 }

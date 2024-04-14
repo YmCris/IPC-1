@@ -1,5 +1,5 @@
-package com.ymcris.ipc1.exercises.Excepciones;
-import java.util.Scanner;
+package com.ymcris.ipc1.exercises.h.excepciones;
+
 
 /**
  *
@@ -19,6 +19,5 @@ public class Excepciones {
         int num2=0;
         int resultado = num1/num2;
         System.out.println("El resultado es "+resultado);*/
-    
-    
+
 }

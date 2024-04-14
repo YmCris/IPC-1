@@ -1,11 +1,11 @@
-package com.ymcris.ipc1.exercises.Herencia;
+package com.ymcris.ipc1.exercises.A.herencia;
 
 /**
  *
  * @author crist
  */
 public class Herencia {
- /*   public static void main(String[] args) {
+    /*   public static void main(String[] args) {
         String holamundo[]= new String[5];
         Persona personas[] = new Persona[5];
         personas[0]= new Persona();

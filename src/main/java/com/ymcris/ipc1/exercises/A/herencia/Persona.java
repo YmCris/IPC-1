@@ -1,10 +1,11 @@
-package com.ymcris.ipc1.exercises.Herencia;
+package com.ymcris.ipc1.exercises.A.herencia;
 
 /**
  *
  * @author crist
  */
 public class Persona {
+
     int id;
     String dni;
     String nombre;
@@ -131,6 +132,5 @@ public class Persona {
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
-    
-    
+
 }

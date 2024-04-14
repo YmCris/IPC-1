@@ -1,10 +1,10 @@
-package com.ymcris.ipc1.exercises.ClasesAbstractas;
+package com.ymcris.ipc1.exercises.d.clasesAbstractas;
 
 /**
  *
  * @author crist
  */
-public class Cuadrado extends Figura{
+public class Cuadrado extends Figura {
 
     private double lado;
 
@@ -37,14 +37,14 @@ public class Cuadrado extends Figura{
     public void setLado(double lado) {
         this.lado = lado;
     }
-    
+
     /**
      *
      * @return
      */
     @Override
     public double calcularArea() {
-        double resultado = lado*lado;
+        double resultado = lado * lado;
         return resultado;
     }
 

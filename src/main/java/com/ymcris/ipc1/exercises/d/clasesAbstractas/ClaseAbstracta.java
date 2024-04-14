@@ -1,4 +1,4 @@
-package com.ymcris.ipc1.exercises.ClasesAbstractas;
+package com.ymcris.ipc1.exercises.d.clasesAbstractas;
 
 /**
  *
@@ -6,5 +6,4 @@ package com.ymcris.ipc1.exercises.ClasesAbstractas;
  */
 public class ClaseAbstracta {
 
-    
 }

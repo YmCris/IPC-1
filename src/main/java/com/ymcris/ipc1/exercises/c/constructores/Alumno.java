@@ -1,4 +1,4 @@
-package com.ymcris.ipc1.exercises.Constructores;
+package com.ymcris.ipc1.exercises.c.constructores;
 
 /**
  *
@@ -15,21 +15,23 @@ public class Alumno {
      */
     public Alumno() {
     }
-/**
- * 
- * @param id
- * @param nombre
- * @param apellido 
- */
+
+    /**
+     *
+     * @param id
+     * @param nombre
+     * @param apellido
+     */
     public Alumno(int id, String nombre, String apellido) {
         this.id = id;
         this.nombre = nombre;
         this.apellido = apellido;
     }
-/**
- * 
- * @return usuario que regresa un hola mundo
- */
+
+    /**
+     *
+     * @return usuario que regresa un hola mundo
+     */
     public int getId() {
         return id;
     }

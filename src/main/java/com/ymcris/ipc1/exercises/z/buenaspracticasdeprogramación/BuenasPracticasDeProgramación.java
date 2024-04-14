@@ -1,4 +1,4 @@
-package com.ymcris.ipc1.exercises.BuenasPracticasDeProgramación;
+package com.ymcris.ipc1.exercises.z.buenaspracticasdeprogramación;
 
 import java.util.Scanner;
 
@@ -7,22 +7,12 @@ import java.util.Scanner;
  * prácticas de programación
  *
  * @author crist
- * @version 21.0.2
  */
 public class BuenasPracticasDeProgramación {
 
     private final int AÑO_ACTUAL = 2024;
     private int edad;
     private String nombre;
-
-    /**
-     *
-     * @param args
-     */
-    public static void main(String[] args) {
-        BuenasPracticasDeProgramación programa = new BuenasPracticasDeProgramación();
-        programa.mostrarNombreYEdad();
-    }
 
     /**
      *

@@ -1,10 +1,11 @@
-package com.ymcris.ipc1.exercises.Herencia;
+package com.ymcris.ipc1.exercises.A.herencia;
 
 /**
  *
  * @author crist
  */
 public class Consultor extends Persona {
+
     int num_legajo;
     String cargo;
     double sueldo;
@@ -81,13 +82,13 @@ public class Consultor extends Persona {
     public void setSueldo(double sueldo) {
         this.sueldo = sueldo;
     }
-    
+
     /**
      *
      */
-    public void nombredelkbron(){
-       Consultor miConsultor= new Consultor();
-       miConsultor.setNombre("Hola soy moi");
+    public void nombredelkbron() {
+        Consultor miConsultor = new Consultor();
+        miConsultor.setNombre("Hola soy moi");
     }
-    
+
 }
