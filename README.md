@@ -16,4 +16,9 @@ Si eres estudiante de IPC1, puedes explorar los diferentes temas y ejercicios pa
 ¡Las contribuciones son bienvenidas! Si tienes ejercicios adicionales para compartir o mejoras para los existentes, no dudes en enviar una solicitud de extracción.
 
 ## Diagrama de Clases utilizado para los ejercicios:
+**Ingresar con correo institucional.**
 https://drive.google.com/file/d/16ZQrLpv4qta5DrD8_D_k_c2Fvewzn_cd/view?usp=sharing
+
+## Enunciados de ejercicios utilizados:
+**Ingresar con correo institucional.**
+https://docs.google.com/presentation/d/1_CNYgv4CJqEMJ5DjVt4IdmMCGc8AKJiFJWeNBlE9Ig8/edit?usp=sharing
