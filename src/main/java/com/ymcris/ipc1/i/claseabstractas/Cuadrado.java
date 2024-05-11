@@ -1,4 +1,4 @@
-package com.ymcris.ipc1.i.clasesAbstractas;
+package com.ymcris.ipc1.i.claseabstractas;
 
 /**
  *

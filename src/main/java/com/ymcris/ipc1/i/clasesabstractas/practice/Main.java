@@ -13,7 +13,7 @@ Además, se deben implementar clases concretas para cada tipo de contenido music
 que hereden de la clase ContenidoMusical y proporcionen una implementación concreta del método abstracto para obtener la duración del contenido.
 El sistema debe demostrar el uso adecuado de clases abstractas en Java para definir un comportamiento común entre diferentes tipos de objetos
 y facilitar la extensibilidad del sistema al permitir la adición de nuevos tipos de contenido musical en el futuro.*/
-package com.ymcris.ipc1.i.clasesAbstractas.practice;
+package com.ymcris.ipc1.i.clasesabstractas.practice;
 
 /**
  *
