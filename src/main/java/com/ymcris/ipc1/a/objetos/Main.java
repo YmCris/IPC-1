@@ -11,6 +11,6 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("HolaMundo, como stais?");
+        System.out.println("En efecto, esto es programación 🚬");
     }
 }
