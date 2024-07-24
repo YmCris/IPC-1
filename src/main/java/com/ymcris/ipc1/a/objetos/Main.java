@@ -12,5 +12,6 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("En efecto, esto es programación 🚬");
+        System.out.println("Cy");
     }
 }
