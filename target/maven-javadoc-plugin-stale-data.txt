@@ -8,68 +8,87 @@
 -source
 '21'
 -sourcepath
-'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/src/main/java;C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/target/generated-sources/annotations'
+'C:/Users/crist/OneDrive/1. A little bit of/3. PROGRAMMING/1. Java/IPC-1/IPC-1/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2024. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/Users/crist/OneDrive/Java/1. PNB/PNB Exercises/Exercises/target/apidocs'
+'C:/Users/crist/OneDrive/1. A little bit of/3. PROGRAMMING/1. Java/IPC-1/IPC-1/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
-'Exercises 1.0-SNAPSHOT API'
+'IPC-1 1.0-SNAPSHOT API'
 -use
 -version
 -windowtitle
-'Exercises 1.0-SNAPSHOT API'
-com.ymcris.ipc1.exercise
-com.ymcris.ipc1.exercises.A.herencia
-com.ymcris.ipc1.exercises.A.herencia.practice
-com.ymcris.ipc1.exercises.b.polimorfismo
-com.ymcris.ipc1.exercises.b.polimorfismo.practice
-com.ymcris.ipc1.exercises.c.constructores
-com.ymcris.ipc1.exercises.c.constructores.practice
-com.ymcris.ipc1.exercises.d.clasesAbstractas
-com.ymcris.ipc1.exercises.d.clasesAbstractas.practice
-com.ymcris.ipc1.exercises.e.casteo
-com.ymcris.ipc1.exercises.e.casteo.practice
-com.ymcris.ipc1.exercises.f.interfa
-com.ymcris.ipc1.exercises.f.interfaces.practice
-com.ymcris.ipc1.exercises.g.archivos
-com.ymcris.ipc1.exercises.g.archivos.practice
-com.ymcris.ipc1.exercises.h.excepciones
-com.ymcris.ipc1.exercises.h.excepciones.practice
-com.ymcris.ipc1.exercises.i.threads
-com.ymcris.ipc1.exercises.i.threads.practice
-com.ymcris.ipc1.exercises.j.busquedayordenamieto
-com.ymcris.ipc1.exercises.j.busquedayordenamieto.practice
-com.ymcris.ipc1.exercises.k.ordenamiento.burbuja
-com.ymcris.ipc1.exercises.k.ordenamiento.burbuja.practice
-com.ymcris.ipc1.exercises.k.ordenamiento.inserción
-com.ymcris.ipc1.exercises.k.ordenamiento.inserción.practice
-com.ymcris.ipc1.exercises.z.buenaspracticasdeprogramación
+'IPC-1 1.0-SNAPSHOT API'
+com.ymcris.ipc1.a.conceptospoo
+com.ymcris.ipc1.a.objetos
+com.ymcris.ipc1.b.abstraccion
+com.ymcris.ipc1.b.abstraccion.practice
+com.ymcris.ipc1.c.herencia
+com.ymcris.ipc1.c.herencia.practice
+com.ymcris.ipc1.d.polimorfismo
+com.ymcris.ipc1.d.polimorfismo.practice
+com.ymcris.ipc1.e.encapsulamiento
+com.ymcris.ipc1.e.encapsulamiento.practice
+com.ymcris.ipc1.f.resumen
+com.ymcris.ipc1.g.constructores
+com.ymcris.ipc1.g.constructores.practice
+com.ymcris.ipc1.h.casteo
+com.ymcris.ipc1.h.casteo.practice
+com.ymcris.ipc1.i.claseabstractas
+com.ymcris.ipc1.i.clasesabstractas.practice
+com.ymcris.ipc1.j.interfaces
+com.ymcris.ipc1.j.interfaces.practice
+com.ymcris.ipc1.k.busquedas
+com.ymcris.ipc1.k.busquedas.practice
+com.ymcris.ipc1.l.ordenamientos
+com.ymcris.ipc1.l.ordenamientos.practice
+com.ymcris.ipc1.m.excepciones
+com.ymcris.ipc1.m.excepcionespersonalizadas
+com.ymcris.ipc1.n.archivosdetexto
+com.ymcris.ipc1.n.archivosdetexto.practice
+com.ymcris.ipc1.o.archivosbinarios
+com.ymcris.ipc1.o.archivosbinarios.practice
+com.ymcris.ipc1.p.clasesgenericas
+com.ymcris.ipc1.q.listasdinamicas
+com.ymcris.ipc1.q.listasdinamicas.listasdoblementeenlzadas
+com.ymcris.ipc1.q.listasdinamicas.listasenlazadas
+com.ymcris.ipc1.q.listasdinamicas.practice
+com.ymcris.ipc1.r.pilas
+com.ymcris.ipc1.s.threads
+com.ymcris.ipc1.s.threads.practice
+com.ymcris.ipc1.t.interfacesgraficas.eventos
+com.ymcris.ipc1.t.interfacesgraficas
+com.ymcris.ipc1.t.interfacesgraficas.practice
+com.ymcris.ipc1.z.buenaspracticasdeprogramación
+com.ymcris.ipc1.z.css
+com.ymcris.ipc1.z.ejercicios1
+com.ymcris.ipc1.z.html
+com.ymcris.ipc1.z.librerias
 C:\Users\crist\.m2\repository\unknown\binary\AbsoluteLayout\SNAPSHOT\AbsoluteLayout-SNAPSHOT.jar = 1712632983752
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\src\main\java = 1713026689916
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\generated-sources\annotations = 1713128415237
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\allclasses-index.html = 1713128423234
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\allpackages-index.html = 1713128423236
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\copy.svg = 1713128423423
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\element-list = 1713128422530
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\help-doc.html = 1713128423414
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\index-all.html = 1713128423390
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\index.html = 1713128423164
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\link.svg = 1713128423432
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\member-search-index.js = 1713128423236
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\module-search-index.js = 1713128423236
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\overview-summary.html = 1713128423396
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\overview-tree.html = 1713128423157
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\package-search-index.js = 1713128423236
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\script.js = 1713128423422
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search-page.js = 1713128423436
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search.html = 1713128423396
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\search.js = 1713128423436
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\stylesheet.css = 1713128423418
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\tag-search-index.js = 1713128423236
-C:\Users\crist\OneDrive\Java\1. PNB\PNB Exercises\Exercises\target\apidocs\type-search-index.js = 1713128423236
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\src\main\java = 1713026689916
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\allclasses-index.html = 1729019171601
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\allpackages-index.html = 1729019171612
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\copy.svg = 1729019171842
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\element-list = 1729019169472
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\help-doc.html = 1729019171831
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\index-all.html = 1729019171763
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\index.html = 1729019171490
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\link.svg = 1729019171845
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\member-search-index.js = 1729019171620
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\module-search-index.js = 1729019171615
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\overview-summary.html = 1729019171825
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\overview-tree.html = 1729019171482
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\package-search-index.js = 1729019171617
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\script.js = 1729019171839
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\search-page.js = 1729019171851
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\search.html = 1729019171803
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\search.js = 1729019171849
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\serialized-form.html = 1729019170611
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\stylesheet.css = 1729019171837
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\tag-search-index.js = 1729019171626
+C:\Users\crist\OneDrive\1. A little bit of\3. PROGRAMMING\1. Java\IPC-1\IPC-1\target\site\apidocs\type-search-index.js = 1729019171618
