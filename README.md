@@ -1,3 +1,6 @@
+## Diapositivas del contenido:
+**Ingresar con correo institucional:**
+https://www.canva.com/design/DAGThbZDIIQ/0orjghqlf3CDvz4f9FKT1w/edit?utm_content=DAGThbZDIIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Diagrama de Clases utilizado para los ejercicios:
 **Ingresar con correo institucional:**
